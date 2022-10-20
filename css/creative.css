@@ -57,7 +57,7 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #ff9a46;
+    background-color: #ff7807;
 }
 
 .text-faded {
@@ -484,4 +484,10 @@ body {
 
 .mail{
     font-size: 18px;
+}
+
+.mail_center{
+    display: flex;
+    justify-content: center;
+align-items: center;
 }
