@@ -11,6 +11,18 @@
       "css": "mail",
       "code": 59392,
       "src": "websymbols"
+    },
+    {
+      "uid": "c1d1ix1r5ldq6yl3xwvh3u3fxqale7sy",
+      "css": "home",
+      "code": 59393,
+      "src": "modernpics"
+    },
+    {
+      "uid": "291e2e127efe7a6bc580af6d3ead3771",
+      "css": "location",
+      "code": 61489,
+      "src": "mfglabs"
     }
   ]
 }

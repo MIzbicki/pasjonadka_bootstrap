@@ -489,8 +489,20 @@ body {
 
 .mail-icon{
     margin-top: 30px;
+    margin-left: -15px;
+    font-size: 40px;
 }
 
 .mapa{
     padding-bottom: 10px;
+}
+
+.where-we-are{
+    font-size: 40px;
+}
+
+ul{
+    list-style-type: none;
+    padding-inline-start: 0px;
+    margin-top: 10px;
 }
