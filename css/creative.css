@@ -15,7 +15,7 @@ body {
 }
 
 hr {
-    max-width: 50px;
+    max-width: 120px;
     border-color: #f05f40;
     border-width: 3px;
 }
@@ -486,8 +486,6 @@ body {
     font-size: 18px;
 }
 
-.mail_center{
-    display: flex;
-    justify-content: center;
-align-items: center;
+.mail-icon{
+    margin-top: 30px;
 }
